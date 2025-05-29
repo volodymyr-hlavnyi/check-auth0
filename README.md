@@ -1,6 +1,6 @@
 # Auth0 Python Web App Sample with local SQLite DB
 
-Sample from manual auth0.com/docs/quickstart/backend/python/01-authorization
+Sample from [auth0 manual](auth0.com/docs/quickstart/backend/python/01-authorization)
 
 This sample demonstrates how to add authentication to a Python web app using Auth0.
 
